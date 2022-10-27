@@ -2,3 +2,4 @@
 二回目の変更
 複数ファイルの追加練習
 git　status
+git diff
